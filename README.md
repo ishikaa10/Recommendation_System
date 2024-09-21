@@ -12,12 +12,12 @@ This project recommend movies to users based on their preferences or past viewin
 
 
 ## Tech Stack
-** Programming Language: Python
-** Libraries:
+* Programming Language: Python
+* Libraries:
  * pandas and numpy for data manipulation
  * matplotlib for visualizations
  * scikit-learn for feature extraction (TF-IDF) and similarity calculations (Cosine Similarity)
  * ast for handling JSON data in the dataset
-**Dataset: TMDB 5000 Movies Dataset
+* Dataset: TMDB 5000 Movies Dataset
 
 
